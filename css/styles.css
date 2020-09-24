@@ -1,0 +1,81 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+h1{
+    font-family: "Sacramento";
+    font-size: 5rem;
+    line-height: 1.5; 
+    color: #c00000;
+}
+h2{
+    font-family:"Montserrat-black" ;
+    font-size: 2rem;
+    line-height: 2;
+    color:#c00000;
+}
+#title{
+    background-color: white;;
+    color;
+}
+
+.Front{
+    padding-top: 300px;
+}
+.dev{
+    padding-bottom: 255px;
+}
+
+#logo{
+    color: black;
+    font-size: 2.5rem;
+    font-family:"Montserrat-black"
+}
+#log{
+    color: black;
+    font-size: 1.25rem;
+    font-family:"Montserrat-black"
+}
+#red{
+    background-color: #cd3131;
+    color: white;
+    padding: 50px 25% 100px 25%;
+
+}
+#top{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.fonts{
+    color:white;
+    font-size: 3rem;
+}
+hr{
+    border-top: 5px dotted white;
+    width: 25%;
+    margin-top: 50px;
+    #cd3131
+}
+#footer{
+    text-align: center;
+    padding: 3% 15%;
+    padding-bottom: 0px;
+}
+.iimg{
+    width: 25%;
+    height: 25%;
+    border-radius: 100%;
+    padding: 3%;
+   }
+.fab{
+    padding: 2%;
+}
+.sec-row{
+    padding-top: 50px;
+}
+.frst-row{
+    padding-top: 25px;
+}
+.contact-me{
+    padding-top: 30px;
+}
